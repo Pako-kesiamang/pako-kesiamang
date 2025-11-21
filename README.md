@@ -1,74 +1,38 @@
-# Hi, My Name Is Pako 👋
+# Hi, I'm Pako 👋
 
-### Crypto Tax Analyst | Applied Mathematics (Hons) | Aspiring Data Scientist & ML Engineer | On-Chain Data Specialist
+### Crypto Tax Analyst | Applied Mathematics (Hons) | Aspiring Data Scientist & ML Engineer
 
-I'm currently working as a **Crypto Tax Analyst**, where I handle data analysis, wallet tracing, and transaction reconciliation for digital assets.  
-I hold a **BSc (Hons) in Applied Mathematics (Stellenbosch University)**, and I'll be starting my **MSc in AI & Machine Learning** next year.
-
-My work and interests revolve around **data science, machine learning, automation, and blockchain analytics**.
+I work with **data analysis, automation, and on-chain analytics** in the crypto space.  
+I have a **BSc (Hons) in Applied Mathematics** and will be starting my **MSc in AI & Machine Learning** next year.
 
 ---
 
-## 🧩 What Drives Me
-I enjoy taking messy or inefficient systems and making them **cleaner, smarter, and more automated**.  
-I naturally gravitate toward:
-- analysing and interpreting data  
-- finding patterns and insights  
-- optimising workflows  
-- automating repetitive tasks  
-
-Problem-solving is at the core of everything I do.
+## 🔭 Currently Working On
+- Data science & ML portfolio projects  
+- Python automation tools  
+- On-chain analytics scripts  
 
 ---
 
-## 🔭 What I'm Currently Working On
-- Data science & ML projects for my portfolio  
-- Python automation tools to speed up workflows  
-- On-chain analytics tools (address clustering, token flow scripts)  
-- Exploring a 3D-fit e-commerce MVP (computer vision)  
+## 🌱 Learning
+- Machine Learning & Deep Learning  
+- SQL, ETL, and data engineering basics  
+- Blockchain analytics (EVM, UTXO models)
 
 ---
 
-## 🌱 What I'm Currently Learning
-- Machine Learning & Deep Learning fundamentals  
-- Practical DS workflows (EDA → modelling → evaluation)  
-- Data engineering concepts: SQL, ETL, Spark  
-- Blockchain analytics: EVM internals, UTXO models, heuristics  
+## 🧠 Skills
+- Data analysis & automation  
+- On-chain data tracing  
+- EVM token flows & blockchain data tools  
 
 ---
 
-## 🧠 Blockchain / On-Chain Analytics Skills
-- Wallet tracing & entity classification  
-- Cleaning and enriching on-chain data  
-- EVM token flow analysis  
-- Understanding UTXO vs account-based models  
-- Reconciling CEX + DEX activity  
-- Working with Web3 APIs and block explorers  
-
----
-
-## 🤝 I'm Looking for Help With
-- Structuring ML projects for production  
-- Improving clean-code and data engineering practices  
-- Approaches for handling large blockchain datasets  
-
----
-
-## 💬 Ask Me About
-- Applied mathematics & modelling  
-- Crypto tax data and on-chain analytics  
-- Running, boxing, and fitness challenges 😅  
-
----
-
-## 📫 How to Reach Me
+## 📫 Contact
 - **Email:** pakowalter76@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/pako-kesiamang-7299b11bb/  
-- **GitHub:** You're already here 👀  
+- **LinkedIn:** https://www.linkedin.com/in/pako-kesiamang-7299b11bb/
 
 ---
 
-## ⚡ Fun Facts
-- I love running long-distance races  
-- Cooking helps me decompress  
-- I enjoy exploring new tech and building small MVPs for fun  
+## ⚡ Fun
+I run long distances, enjoy cooking, and like building small MVPs for fun.
