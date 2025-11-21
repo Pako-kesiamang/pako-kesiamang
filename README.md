@@ -1,4 +1,4 @@
-# Hi, I'm Pako 👋
+# Hi, My Name Is Pako 👋
 
 ### Crypto Tax Analyst | Applied Mathematics (Hons) | Aspiring Data Scientist & ML Engineer | On-Chain Data Specialist
 
