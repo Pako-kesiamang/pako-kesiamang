@@ -3,7 +3,7 @@
 ### Crypto Tax Analyst | Applied Mathematics (Hons) | Aspiring Data Scientist & ML Engineer
 
 I work with **data analysis, automation, and on-chain analytics** in the crypto space.  
-I have a **BSc (Hons) in Applied Mathematics** and will be starting my **MSc in AI & Machine Learning** next year.
+I have a **BSc (Hons) in Applied Mathematics** from **Stellenbosch University.**
 
 ---
 
