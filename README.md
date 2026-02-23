@@ -1,6 +1,6 @@
 # Hi, I'm Pako 👋
 
-### Crypto Tax Analyst | Applied Mathematics (Hons) | Aspiring Data Scientist & ML Engineer
+### Crypto Tax Analyst | Applied Mathematics (Hons) | Aspiring Analytical Engineering & ML Engineer
 
 I work with **data analysis, automation, and on-chain analytics** in the crypto space.  
 I have a **BSc (Hons) in Applied Mathematics** from **Stellenbosch University.**
@@ -8,7 +8,7 @@ I have a **BSc (Hons) in Applied Mathematics** from **Stellenbosch University.**
 ---
 
 ## 🔭 Currently Working On
-- Data science & ML portfolio projects  
+- Analytical Engineering & ML portfolio projects  
 - Python automation tools  
 - On-chain analytics scripts  
 
