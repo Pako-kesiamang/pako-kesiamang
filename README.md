@@ -4,7 +4,6 @@ Quantitative Data Professional with a background in Applied Mathematics, special
 
 I work at the intersection of:
 - Data analysis & automation
-- Machine learning & time-series modelling
 - On-chain and financial data systems
 
 ---
