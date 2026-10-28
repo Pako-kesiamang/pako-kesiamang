@@ -1,109 +1,111 @@
 # Hi, I'm Pako 👋
 
-**Applied Mathematics Graduate | Crypto & Blockchain Analytics | Quantitative Modelling**
+**Digital Asset Risk, Treasury & Custody | Applied Mathematics | Blockchain Analytics**
 
-I work at the intersection of applied mathematics, blockchain data and financial systems. My experience includes high-volume blockchain transaction processing, Python automation, crypto reconciliation and analytical modelling.
+I'm an Applied Mathematics graduate working in crypto reconciliation, with experience in blockchain transaction data, financial data processing, Python automation, and digital asset operations.
 
-I'm currently pursuing a part-time MSc in Applied Mathematics, with research focused on how graph structure influences heuristic performance.
+My career goal is to specialise in **digital asset risk, treasury, and custody**, combining practical operational experience with quantitative modelling and blockchain analytics.
 
-My long-term interests include digital asset risk, institutional custody, treasury analytics and quantitative risk modelling.
+I'm also pursuing a part-time MSc in Applied Mathematics at Stellenbosch University, researching how graph structure influences heuristic performance.
 
----
+## 🎯 Career Focus
 
-## 🔭 What I Do
+- **Digital Asset Risk:** Exposure analysis, operational risk, risk indicators, and control monitoring.
+- **Treasury & Liquidity:** Digital asset balances, settlement flows, liquidity risk, and asset concentration.
+- **Custody & Controls:** Custody operations, transaction controls, reconciliation, and asset safeguarding.
+- **Blockchain Analytics:** On-chain transaction analysis, wallet behaviour, and graph-based risk analysis.
+- **Quantitative Modelling:** Applying statistics, optimisation, and graph theory to financial and operational problems.
 
-- **Blockchain & Digital Assets:** On-chain transaction analysis, wallet activity and crypto reconciliation.
-- **Data Engineering & Automation:** Building Python ETL pipelines, data validation and automated processing workflows.
-- **Quantitative Modelling:** Statistical analysis, forecasting, optimisation and graph-theoretic methods.
-- **Financial Risk Analytics:** Developing skills in wallet risk assessment, custody controls, liquidity stress testing and counterparty risk.
+## 🛠️ Technical Skills
 
----
+- **Programming & Data:** Python, pandas, NumPy, SQL
+- **Data Engineering:** ETL pipelines, data validation, reconciliation, and anomaly detection
+- **Quantitative Methods:** Statistical analysis, time-series forecasting, optimisation, and graph theory
+- **Blockchain & Digital Assets:** On-chain data analysis, wallet transactions, crypto reconciliation, and custody workflows
+- **Risk & Controls:** Developing skills in exposure analysis, operational risk, liquidity monitoring, and custody controls
 
 ## 📊 Featured Projects
 
-### 🔹 Bitcoin Price Forecasting & Trading Strategy
-- Compared ARIMA, Prophet and XGBoost forecasting approaches.
-- Developed a time-series modelling pipeline with feature engineering.
-- Evaluated forecasting accuracy using RMSE and MAE.
-- Explored trading metrics, overfitting and model robustness.
+### 1. Digital Asset Treasury Risk Simulator
+*Planned project*
 
-**Demonstrates:** Time-series analysis, model evaluation and quantitative finance.
+A quantitative project exploring how a digital asset portfolio responds to financial and operational stress.
 
-### 🔹 Electricity Demand Forecasting — South Africa
-- Analysed more than 20 years of electricity demand data.
-- Applied SARIMA and Holt-Winters forecasting methods.
-- Evaluated predictive performance using statistical metrics.
+- Model digital asset balances and portfolio concentration.
+- Simulate liquidity shocks, stablecoin depegging, and restricted withdrawals.
+- Analyse potential exposure under different stress scenarios.
+- Develop risk indicators and summarise the results in a concise risk report.
 
-**Demonstrates:** Statistical modelling, forecasting and real-world data analysis.
+**Technologies:** Python, pandas, NumPy, data visualisation
 
-### 🔹 Automated Blockchain & Financial Data Processing
-- Developed Python ETL workflows for multi-source transaction datasets.
-- Implemented data validation, reconciliation and anomaly checks.
-- Automated repetitive processing tasks, reducing manual processing time by approximately 70% in my professional work.
+### 2. Crypto Reconciliation & Controls Analytics
+*Planned project*
 
-**Demonstrates:** Data engineering, blockchain data processing and operational efficiency.
+A data analytics project focused on identifying, classifying, and monitoring digital asset reconciliation exceptions using synthetic data.
 
-### 🔹 Wallet Risk Analytics & Transaction Graphs — In Development
-- Represent blockchain transactions as directed graphs.
-- Explore graph features, wallet relationships and transaction-flow patterns.
-- Develop transparent baseline risk-scoring methods using Python and NetworkX.
-- Evaluate model limitations, uncertainty and false-positive risks.
+- Compare internal ledger balances with simulated custody and on-chain balances.
+- Identify and categorise reconciliation breaks.
+- Analyse exception ageing, recurring discrepancies, and potential root causes.
+- Develop key risk indicators to monitor unresolved exceptions and control effectiveness.
 
-**Demonstrates:** Graph analytics, blockchain intelligence and quantitative risk modelling.
+**Technologies:** Python, pandas, SQL
 
-*This project is under development; results and methods will be documented as the work progresses.*
+### 3. Blockchain Wallet Risk Analytics
+*Planned project*
 
----
+A graph-based analysis of blockchain transaction activity to investigate wallet behaviour and potential exposure patterns.
 
-## 🧠 Technical Skills
+- Represent wallets as nodes and transactions as directed edges.
+- Calculate graph features such as degree, centrality, and transaction connectivity.
+- Explore transaction patterns and exposure to designated risk-labelled addresses in a clearly defined dataset.
+- Evaluate transparent baseline risk indicators and document their limitations.
 
-**Programming & Data**
-- Python
-- pandas, NumPy and scikit-learn
-- SQL and data querying
-- ETL pipelines and data validation
+**Technologies:** Python, pandas, NetworkX
 
-**Mathematics & Analytics**
-- Statistical modelling and forecasting
-- Graph theory and network analysis
-- Optimisation and quantitative methods
-- Model evaluation and analytical reasoning
+*Note: Graph connections and risk scores are indicators for further investigation, not proof of common ownership or wrongdoing.*
 
-**Blockchain & Digital Assets**
-- On-chain transaction analysis
-- Crypto reconciliation and balance analysis
-- Digital asset custody workflows
-- Blockchain risk analytics — developing
+### 4. Bitcoin Price Forecasting & Trading Strategy
+*Existing project — include if the repository and results are available*
 
----
+- Compare ARIMA, Prophet, and XGBoost forecasting approaches.
+- Apply feature engineering to financial time-series data.
+- Evaluate forecasts using appropriate error metrics.
+- Examine overfitting, robustness, and the limitations of backtested trading strategies.
 
-## 🌱 Currently Learning
+**Technologies:** Python, pandas, scikit-learn, time-series analysis
 
-- Blockchain investigation and wallet-risk analytics
-- Institutional digital asset custody and transaction controls
-- Financial crime risk indicators and regulatory frameworks
-- Quantitative treasury, liquidity and counterparty risk modelling
-- Graph-theoretic methods for complex networks
+### 5. Electricity Demand Forecasting — South Africa
+*Existing project — include if the repository and results are available*
 
----
+- Analyse historical electricity demand data spanning more than 20 years.
+- Implement SARIMA and Holt-Winters forecasting methods.
+- Compare model performance using statistical evaluation metrics.
+- Explore the application of time-series analysis to an important South African infrastructure problem.
+
+**Technologies:** Python, pandas, statistical modelling
 
 ## 🎓 Education
 
 **MSc Applied Mathematics — Candidate**  
 Stellenbosch University | Part-time, started 2026
 
-Research interest: Understanding how graph structure influences the performance of heuristics.
+Research focus: How graph structure influences heuristic performance.
 
 **BSc Honours Applied Mathematics**  
-Stellenbosch University
+Stellenbosch University | 2024
 
 **BSc Mathematical Sciences**  
-Stellenbosch University
+Stellenbosch University | 2020–2023
 
----
+## 📚 Currently Developing
+
+- Digital asset treasury and liquidity risk analysis
+- Institutional custody operations and control frameworks
+- Blockchain transaction tracing and wallet exposure analysis
+- Quantitative risk modelling and stress testing
+- Graph-based methods for analysing financial networks
 
 ## 📫 Connect With Me
 
-- Email: pakowalter76@gmail.com
-- LinkedIn: [Pako Kesiamang](https://www.linkedin.com/in/pako-kesiamang-7299b11bb/)
-
+- **LinkedIn:** [Pako Kesiamang](https://www.linkedin.com/in/pako-kesiamang-7299b11bb/)
+- **Email:** pakowalter76@gmail.com
